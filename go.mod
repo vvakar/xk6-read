@@ -1,4 +1,4 @@
-module github.com/acuenca-facephi/xk6-read
+module github.com/vvakar/xk6-read
 
 go 1.20
 
